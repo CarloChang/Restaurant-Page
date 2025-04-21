@@ -1,2 +1,2 @@
 # Restaurant-Page
-a Webpack proyect
+a Webpack project
